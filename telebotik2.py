@@ -5,7 +5,7 @@ import random
 from datetime import datetime
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with the token you received from BotFather
-bot = telebot.TeleBot('6920406775:AAE9rAtGpOkPNR9Xsoi1RPj9h8UKXBuP4fY')
+bot = telebot.TeleBot('6920406775:AAE9rAtGpOkPNR9Xsoi1RPj9h8UKXBuP4')
 
 # This dictionary will store the user's personal data
 user_data = {}

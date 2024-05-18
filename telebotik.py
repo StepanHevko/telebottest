@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Replace YOUR_TELEGRAM_BOT_TOKEN with the token you received from BotFather
-bot = telebot.TeleBot('7155412471:AAF75oq4TiyWcVd3i5I1XghiSRdFxmCsaMU')
+bot = telebot.TeleBot('7155412471:AAF75oq4TiyWcVd3i5I1XghiSRdFxmCsaM')
 
 # This is a dictionary that will store the user's gym progress
 gym_progress = {}
